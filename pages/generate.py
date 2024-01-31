@@ -115,4 +115,4 @@ else:
     st.error("Error!!")
 
 if st.button("Export to Github", type="primary") :
-    switch_page(pages/exp_github)
+    switch_page("exp_github")

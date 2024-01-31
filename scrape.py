@@ -102,4 +102,4 @@ else:
 st.divider()
 
 if st.button("Generate Summary", type="primary") :
-    switch_page(generate)
+    switch_page("generate")
