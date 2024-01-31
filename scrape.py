@@ -81,7 +81,7 @@ if date_input:
     time = int(elapsed_time)
 
     # Save the data to a JSON file
-    output_file = "output/TechCrunch.json"
+    output_file = "TechCrunch.json"
     with open(output_file, "w", encoding="utf-8") as json_file:
         json.dump({
             "source": "TechCrunch",

@@ -4,7 +4,7 @@ import streamlit as st
 ACCESS_TOKEN = "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"
 GITHUB_REPO = "data"
 GIT_BRANCH = "main"
-INTERNAL_FILE = "output/TechCrunch.json"
+INTERNAL_FILE = "TechCrunch.json"
 FOLDER_EMPL_IN_GIT = "TechCrunch.json"
 
 st.divider()
