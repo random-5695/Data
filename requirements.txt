@@ -1,0 +1,11 @@
+beautifulsoup4
+lxml
+datetime
+requests
+google-generativeai
+langchain
+crewai
+streamlit
+st-annotated-text
+streamlit-pills
+pyGithub

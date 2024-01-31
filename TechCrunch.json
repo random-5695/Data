@@ -22,7 +22,7 @@
       ],
       "link": "https://techcrunch.com/2024/01/30/chatgpt-users-can-now-invoke-gpts-directly-in-chats/",
       "category": "artificial-intelligence",
-      "Summary": "- OpenAI is promoting the use of GPTs, third-party apps powered by its AI models, by allowing ChatGPT users to invoke them in any chat.\n- Paid ChatGPT users can now bring GPTs into a conversation by typing \"@\" and selecting a GPT from the list.\n- The GPT Store, a marketplace for GPTs, was launched a few weeks ago, but custom GPTs only account for about 2.7% of ChatGPT's worldwide web traffic.\n- OpenAI plans to introduce monetization for developers who sell access to their GPTs.\n- Moderation is a challenge for OpenAI, as the GPT Store was flooded with inappropriate apps in its first week of launch.",
+      "Summary": "- OpenAI is promoting the use of GPTs, third-party apps powered by its AI models, by allowing ChatGPT users to invoke them in any chat.\n- Paid ChatGPT users can now bring GPTs into a conversation by typing \"@\" and selecting a GPT from the list.\n- The GPT Store, a marketplace for GPTs, was launched a few weeks ago, but custom GPTs only make up about 2.7% of ChatGPT's worldwide web traffic.\n- OpenAI plans to introduce monetization for developers who sell access to their GPTs.\n- Moderation is a challenge for OpenAI, as the GPT Store was flooded with inappropriate apps in its first week.",
       "revised_title": "OpenAI Integrates GPTs into ChatGPT, Enabling Direct Invocation in Conversations"
     },
     {
@@ -33,7 +33,7 @@
       ],
       "link": "https://techcrunch.com/2024/01/30/chatgpt-everything-to-know-about-the-ai-chatbot/",
       "category": "artificial-intelligence",
-      "Summary": "- ChatGPT, a text-generating AI chatbot developed by OpenAI, has taken the world by storm since its launch in November 2022.\n\n- OpenAI has been actively updating and expanding ChatGPT's capabilities, including connecting it to the internet, integrating multimodal API, and launching a paid subscription tier called ChatGPT Plus.\n\n- ChatGPT has faced controversies related to data privacy, misinformation, plagiarism, and its impact on education.\n\n- Competitors like Google's Bard and Meta's LLaMA family of large language models are emerging, and OpenAI is investing heavily in developing the next generation of its language model, GPT-4.\n\n- The article provides a timeline of key updates and releases related to ChatGPT, highlighting its rapid evolution and the growing interest in AI-powered chatbots.",
+      "Summary": "- ChatGPT, a text-generating AI chatbot developed by OpenAI, has taken the world by storm since its launch in November 2022.\n\n- OpenAI has been actively updating and expanding ChatGPT's capabilities, including connecting it to the internet, integrating multimodal API, and launching a paid subscription tier called ChatGPT Plus.\n\n- ChatGPT has faced controversies related to data privacy, misinformation, plagiarism, and its impact on education, leading to bans in certain school systems and colleges.\n\n- Competitors like Google's Bard and Anthropic's Claude are emerging, and OpenAI is investing in initiatives to address concerns and improve the responsible use of AI.\n\n- OpenAI is exploring monetization strategies for ChatGPT, such as offering a paid API and launching a premium subscription plan, ChatGPT Plus.",
       "revised_title": "ChatGPT: A Comprehensive Guide to the AI-Powered Chatbot"
     },
     {
@@ -57,7 +57,7 @@
       ],
       "link": "https://techcrunch.com/2024/01/30/kore-ai-a-startup-building-conversational-ai-for-enterprises-raises-150m/",
       "category": "artificial-intelligence",
-      "Summary": "- Kore.ai, a company developing enterprise-focused conversational AI and GenAI products, raised $150 million in a funding round led by FTV Capital.\n\n- The company's platform provides a no-code platform to help companies power various \"business interactions\" via AI, including support chats with an IT/HR service desk.\n\n- Kore.ai offers great flexibility where it concerns where companies can deploy their AI apps \u2014 in the cloud, locally or in virtual machines \u2014 and the degree to which they can fine-tune these apps.\n\n- Kore.ai has established an impressive foothold in the competitive AI field, with a customer base that eclipsed 400 brands and annual recurring revenue now stands north of $100 million.\n\n- The funding for GenAI startups remains strong, with GenAI startups raising a record $10 billion in 2023.",
+      "Summary": "- Kore.ai, a company developing enterprise-focused conversational AI and GenAI products, raised $150 million in a funding round led by FTV Capital.\n\n- The company plans to use the funds for product development and scaling up its workforce.\n\n- Kore.ai offers a no-code platform to help companies power various \"business interactions\" via AI, including support chats with an IT/HR service desk.\n\n- Kore.ai's platform encompasses intelligent virtual agent, contact center AI, agent AI, and search and answer capabilities for all kinds of customer experience and employee experience use cases.\n\n- Kore.ai's customer base eclipsed 400 brands last year, and its annual recurring revenue now stands north of $100 million.",
       "revised_title": "Kore.ai Secures $150 Million in Funding to Advance Conversational AI and GenAI Solutions for Enterprises"
     },
     {
@@ -104,7 +104,7 @@
       "link": "https://techcrunch.com/2024/01/30/some-irs-employees-still-access-tiktok-despite-ban-on-government-devices/",
       "category": "apps",
       "Summary": "- The IRS is facing scrutiny from Republican senators for allowing some employees to access TikTok despite a federally mandated ban on the app on U.S. government devices.\n\n- The senators expressed concerns about the security of Americans' IRS data, given TikTok's data collection practices and reports that TikTok employees sometimes shared data with their China-based parent company ByteDance.\n\n- The IRS claimed it didn't need an exception to the ban because employees were accessing TikTok via third-party software, but the senators questioned this explanation.\n\n- The senators requested detailed information from the IRS regarding the use of TikTok by its employees, including the number of employees using their own devices, the security protocols in place, and the justification for the exception granted to Criminal Investigation staff.\n\n- The IRS ban on TikTok is part of a broader U.S. government ban on the app on government devices, which has been challenged in courts and is currently on hold in some states.",
-      "revised_title": "IRS Employees Still Accessing TikTok Despite Government Ban Raises Concerns"
+      "revised_title": "IRS Still Allowing Some Employees to Access TikTok Despite Government Ban"
     },
     {
       "title": "TikTok tests a feature that would bring TikTok Shop links to more videos",
@@ -167,7 +167,7 @@
       ],
       "link": "https://techcrunch.com/2024/01/30/productivity-platform-clickup-acquires-calendar-startup-hypercal/",
       "category": "apps",
-      "Summary": "- ClickUp, a productivity company backed by Tiger Global and a16z, has acquired Hypercal, a calendar app for Mac.\n\n- Hypercal offers integration with various apps and allows users to connect with one calendar and one task app on its free plan.\n\n- ClickUp aims to infuse new AI-powered features into its productivity suite through this acquisition.\n\n- ClickUp's CEO, Zeb Evans, sees Hypercal as a way to enhance individual productivity by providing context for meetings based on tasks, docs, and projects.\n\n- The calendar apps space has seen recent activity, with Vimcal securing funding, Notion launching its stand-alone calendar, and Amie removing its waitlist and integrating email functionality.",
+      "Summary": "- ClickUp, a productivity company backed by Tiger Global and a16z, has acquired Hypercal, a calendar app for Mac.\n\n- Hypercal offers integration with various apps like Notion, OneNote, Google Docs, and Slack.\n\n- ClickUp aims to infuse new AI-powered features into its productivity suite through this acquisition.\n\n- ClickUp's CEO, Zeb Evans, sees Hypercal as a way to enhance individual productivity by connecting calendar scheduling with tasks, docs, and projects.\n\n- ClickUp has laid off employees in the past to become more efficient and IPO-ready.",
       "revised_title": "ClickUp Acquires Hypercal to Enhance Productivity Platform with AI-Powered Calendar Features"
     },
     {
@@ -223,8 +223,8 @@
       ],
       "link": "https://techcrunch.com/2024/01/30/accel-newme-fashion-ecommerce-india/",
       "category": "commerce",
-      "Summary": "- Accel, an early investor in Flipkart and Myntra, is in advanced talks to lead a $15-20 million funding round into Newme, an Indian fast-fashion e-commerce startup.\n\n- Newme sells its own rapidly-changing clothing lines online and through offline channels, targeting India\u2019s Gen Z consumers with average order values between $18-30.\n\n- The fast-fashion e-commerce space has gained ground in India recently as local startups take inspiration from global fast-fashion pioneers Zara, H&M, and Uniqlo.\n\n- Top player Flipkart leads the category but faces mounting competition from Ambani\u2019s Ajio, which has amassed about 30% market share.\n\n- Shein, which was earlier banned by India, is set for a comeback with a joint venture with Reliance.",
-      "revised_title": "Accel in Talks to Lead Funding Round for Indian Fast-Fashion Startup Newme"
+      "Summary": "- Accel, an early investor in Flipkart and Myntra, is in talks to lead a $15-20 million funding round into Newme, an Indian fast-fashion e-commerce startup.\n\n- Newme sells its own rapidly-changing clothing lines online and through offline channels, targeting India's Gen Z consumers with average order values between $18-30.\n\n- The fast-fashion e-commerce space has gained ground in India recently, with Flipkart leading the category but facing competition from Ambani's Ajio, Amazon, and Shein, which is set for a comeback with a joint venture with Reliance.",
+      "revised_title": "SoftBank in talks to invest in Indian fast-fashion e-commerce startup Newme"
     },
     {
       "title": "What if Christensen was wrong about disruption?",
@@ -238,7 +238,7 @@
       "link": "https://techcrunch.com/2024/01/30/what-if-christensen-was-wrong-about-disruption/",
       "category": "commerce",
       "Summary": "- Clayton Christensen's theory of disruption suggests that cheaper, good enough products disrupt incumbents over time.\n- However, many recent disruptions have started with superior products at higher prices, such as the iPhone, Tesla, Nvidia GPUs, and OpenAI.\n- This \"superior product disruption\" model involves winning over top consumers with a superior product and then lowering prices over time through scale, innovation, and cost-effective measures.\n- Christensen's theory is still relevant for incumbents in existing markets with less innovative products, as they can be disrupted by cheaper, good enough alternatives.\n- Founders and product managers should focus on building a better product, whether it's cheaper or more expensive, to achieve disruption.",
-      "revised_title": "Rethinking Disruption: The Case for Superior Product Disruption"
+      "revised_title": "Rethinking Disruptive Innovation: The Case for Superior Product Disruption"
     },
     {
       "title": "Now with $5M, Leal invests in AI-driven customer engagement for LatAm merchants",
@@ -295,7 +295,7 @@
       ],
       "link": "https://techcrunch.com/2024/01/30/team-timing-and-execution-the-trilogy-of-success/",
       "category": "enterprise",
-      "Summary": "- In 2023, the tech world experienced significant losses, with numerous startups failing and venture funding declining.\n- Investors are becoming more cautious and demanding a clear path to profitability from startups seeking funding.\n- Many entrepreneurs, especially first-timers, mistakenly believe that ideas are sacrosanct and technical supremacy is the key to success.\n- Successful startups are more likely to have strong teams with effective leadership and interpersonal skills, rather than just great ideas.\n- Technical prowess is important, but it is only a small part of what makes a successful startup.",
+      "Summary": "- In 2023, the tech world experienced significant setbacks, with numerous startups and a large amount of funding lost.\n- Venture investment in early-stage businesses has also seen a significant drop, with VCS becoming more cautious and selective.\n- Entrepreneurs, especially first-time founders, often misunderstand the importance of ideas and technical supremacy in startup success.\n- The key to startup success lies in the quality of the team, their ability to implement, and their sense of opportunity.\n- Founders should focus on developing their leadership and interpersonal skills, as these are essential for building a successful business.",
       "revised_title": "Team, Timing, and Execution: The Key Ingredients for Startup Success"
     },
     {
@@ -340,7 +340,7 @@
       ],
       "link": "https://techcrunch.com/2024/01/30/fintech-ramp-acquires-another-ai-powered-startup/",
       "category": "fintech",
-      "Summary": "- Ramp, a spend management startup, has acquired Venue, an AI-powered startup, to expand its procurement offering.\n- Venue aimed to simplify how businesses review, approve, and manage vendor costs.\n- Ramp plans to grow its procurement segment and serve more businesses with simple software that streamlines the procurement process.\n- Ramp has been on a buying spree in recent years, acquiring Buyer, Cohere.io, and Venue.\n- Ramp's integration with Cohere has been successful, leading to the launch of products under Ramp Intelligence and improved customer experience, account management, and sales productivity.",
+      "Summary": "- Ramp, a spend management startup, has acquired Venue, an AI-powered startup, to expand its procurement offering.\n- Venue aimed to simplify how businesses review, approve, and manage vendor costs.\n- Ramp plans to grow its procurement segment and serve more businesses with simple software that streamlines the procurement process.\n- Ramp's goal is to become a one-stop-shop for all financial operations, utilizing AI and automation to eliminate inefficiencies.\n- Ramp has made several acquisitions in recent years, including Buyer, Cohere.io, and Venue, to enhance its product offerings and expand its market reach.",
       "revised_title": "Ramp Acquires Venue, an AI-Powered Startup, to Enhance Procurement Offering"
     },
     {
@@ -384,7 +384,7 @@
       ],
       "link": "https://techcrunch.com/2024/01/30/ofcom-report-finds-1-in-5-harmful-content-search-results-were-one-click-gateways-to-more-toxicity/",
       "category": "government-policy",
-      "Summary": "- Ofcom, the U.K. regulator, is investigating the role of search engines in presenting self-injury, suicide, and other harmful content to users, particularly underage users.\n\n- A report commissioned by Ofcom found that major search engines like Google and Bing can act as \"one-click gateways\" to harmful content, with 22% of search results linking to such content.\n\n- Image searches were found to be particularly egregious, with 50% of results returning harmful content.\n\n- Ofcom plans to open a consultation in the spring on its Protection of Children Codes of Practice, which aims to set out steps search services can take to protect children from harmful content.\n\n- Google has taken issue with some of the report's findings, claiming that its parental controls do a lot of the important work that invalidate some of these findings.",
+      "Summary": "- Ofcom, the U.K. regulator, is investigating the role of search engines in presenting self-injury, suicide, and other harmful content to users, particularly underage users.\n\n- A report commissioned by Ofcom found that major search engines like Google and Bing can act as \"one-click gateways\" to harmful content, with 22% of search results producing single-click links to such content.\n\n- Image searches were found to be particularly egregious, with 50% of searches returning harmful content.\n\n- Ofcom plans to open a consultation in the spring on its Protection of Children Codes of Practice, which aims to set out practical steps search services can take to protect children from harmful content.\n\n- Google has taken issue with some of the report's findings, claiming that its parental controls do a lot of the important work that invalidate some of these findings.",
       "revised_title": "Ofcom Report Highlights Search Engines' Role in Facilitating Access to Harmful Content"
     },
     {
@@ -395,7 +395,7 @@
       ],
       "link": "https://techcrunch.com/2024/01/30/wattpad-a-storytelling-platform-conducts-another-layoff-round/",
       "category": "media-entertainment",
-      "Summary": "- Wattpad, a Toronto-based storytelling platform owned by Naver's Webtoon Entertainment, conducted another round of layoffs earlier this month.\n\n- The company cut around 30 jobs, or roughly 15% of its workforce, as part of a restructuring plan aimed at reducing costs.\n\n- This is the company's second round of layoffs, following a previous round in March 2023 where 15% of the staff was let go.\n\n- Wattpad launched a new freemium model in October 2022, allowing writers to hide certain chapters behind a paywall and readers to access free content and try before they buy.\n\n- Naver acquired Wattpad in 2021 for $600 million to incorporate the storytelling platform into its publishing division.",
+      "Summary": "- Wattpad, a Toronto-based storytelling platform owned by Naver's Webtoon Entertainment, conducted another round of layoffs earlier this month.\n\n- The company cut around 30 jobs, or roughly 15% of its workforce, as part of a restructuring plan aimed at reducing costs.\n\n- This is the company's second round of layoffs, following a 15% reduction in March 2023.\n\n- Wattpad launched a new freemium model in October 2022, allowing writers to hide certain chapters behind a paywall.\n\n- Naver acquired Wattpad in 2021 for $600 million to incorporate the storytelling platform into its publishing division.",
       "revised_title": "Wattpad Conducts Second Round of Layoffs, Cuts 15% of Workforce"
     },
     {
@@ -456,7 +456,7 @@
       ],
       "link": "https://techcrunch.com/2024/01/30/building-ai-guardrails-should-be-part-of-the-process/",
       "category": "startups",
-      "Summary": "- Companies are increasingly relying on AI-powered tools to boost productivity and efficiency, necessitating the development of policies to address ethical, practical, and legal concerns.\n- According to a Gartner survey, over half of organizations using AI have policies in place, highlighting the importance of establishing a solid rulebook to prevent future challenges.\n- AI policies should address issues such as data privacy, algorithmic bias, and the impact of AI on the workforce, ensuring responsible and ethical use of AI technology.\n- Companies need to allocate appropriate budget and resources for AI-assisted software development, considering factors like the cost of AI tools, the balance between AI and human resources, and the need for proper training to maximize benefits and minimize risks.\n- Effective AI policies and strategic budgeting for AI-assisted software development can help organizations harness the potential of AI while mitigating associated risks and ensuring responsible and sustainable growth.",
+      "Summary": "- Companies are increasingly relying on AI-powered tools to boost productivity and efficiency, necessitating the development of policies to address ethical, practical, and legal concerns.\n- According to a Gartner survey, over half of organizations using AI have policies in place, highlighting the importance of establishing a solid rulebook to prevent future challenges.\n- AI policies should address issues such as data privacy, algorithmic bias, and the impact of AI on the workforce, ensuring responsible and ethical use of AI technology.\n- Companies need to allocate appropriate budget and resources for AI-assisted software development, considering factors like the cost of AI tools, the balance between AI and human resources, and the need for proper training to maximize the benefits of AI.\n- Implementing AI policies and strategies can help organizations unlock the potential of AI while mitigating risks and safeguarding against potential workplace issues.",
       "revised_title": "AI Guardrails: A Necessary Step for Ethical and Practical AI Implementation"
     },
     {
@@ -492,7 +492,7 @@
       ],
       "link": "https://techcrunch.com/2024/01/30/ubiquity-ventures-75m-fund-3-software-beyond-the-screen/",
       "category": "startups",
-      "Summary": "- Sunil Nagaraj, the solo general partner at Ubiquitous Ventures, has raised $75 million in capital commitments for his third fund.\n\n- Nagaraj previously worked at Bessemer Venture for six years and made a seed investment in Okta in 2014, which eventually exited in a $5.6 billion deal.\n\n- Nagaraj is focused on early-stage startups creating \"beyond the screen\" technologies, which he defines as software that can be used to control and understand the real physical world.\n\n- He has already made four investment from the new fund and plans to make about 20 overall, writing about $1 to $2 million for a seed round and reserving the same for the Series A.\n\n- Nagaraj has also created Ubiquitous University, a series of educational videos for seed-stage founders, based on his own experiences pitching to V.",
+      "Summary": "- Ubiquity Ventures, led by Sunil Nagaraj, has secured $75 million in capital commitments for its third fund.\n\n- Nagaraj focuses on early-stage startups creating \"software beyond the screen,\" which involves using software to navigate, perceive, understand, and control the real physical world.\n\n- He has already made four investments from the new fund and plans to make about 20 overall, writing about $1 to $2 million for a seed round and reserving the same for the subsequent Series A.\n\n- Nagaraj also created Ubiquity University, a series of educational videos for seed-stage entrepreneurs, to provide free resources and guidance on various aspects of starting and running a business.\n\n- The global venture capital market is still experiencing a downturn, but venture capital firms remain optimistic in closing new funds.",
       "revised_title": "Ubiquity Ventures Raises $75 Million for Fund III to Invest in Early-Stage Startups Creating \"Software Beyond the Screen\""
     },
     {
@@ -514,7 +514,7 @@
       ],
       "link": "https://techcrunch.com/2024/01/30/elon-musks-56b-tesla-pay-deal-is-unfair-judge-rules/",
       "category": "transportation",
-      "Summary": "- A Delaware judge ruled that Elon Musk's $56 billion pay package is unfair and void, making it the largest compensation deal in corporate history.\n\n- The ruling means that Musk can't keep the 2018 compensation package, which consisted of 20.3 million stock option awards broken up into 12 tranches of 1.69 million shares.\n\n- The judge found that Tesla failed to prove that the compensation plan was fair and that the stockholder vote was fully informed.\n\n- The judge also noted that the process leading to the approval of Musk's compensation plan was \"deeply flawed\" and that the board never asked the $55.8 billion question: Was the plan even necessary for Tesla to retain Musk and achieve its goals?\n\n- Musk expressed his displeasure with the ruling on X, the social media site formerly known as Twitter, and posted a poll asking whether Tesla should change its state of incorporation to Texas.",
+      "Summary": "- A Delaware judge ruled that Elon Musk's $56 billion pay package is unfair and void, making it the largest compensation deal in corporate history.\n\n- The ruling means that Musk can't keep the 2018 compensation package, which consisted of 20.3 million stock option awards broken up into 12 tranches of 1.69 million shares.\n\n- The judge found that Tesla failed to prove that the compensation plan was fair and that the stockholder vote was fully informed.\n\n- The judge also noted that the process leading to the approval of Musk's compensation plan was \"deeply flawed\" and that the board never asked the question of whether the plan was even necessary for Tesla to retain Musk and achieve its goals.\n\n- Musk expressed his displeasure with the ruling on X, the social media site formerly known as Twitter, and posted a poll asking whether Tesla should change its state of incorporation to Texas.",
       "revised_title": "Delaware Judge Rules Elon Musk's $56 Billion Tesla Pay Package Unfair"
     },
     {
