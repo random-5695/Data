@@ -46,7 +46,7 @@ st.subheader("Rephrase Titles and Generate Summaries: ")
 if st.button("Generate Summaries", type="primary") :
 
     # Load JSON data from file  
-    with open("TechCrunch.json", "r", encoding="utf-8") as json_file:  
+    with open("output/TechCrunch.json", "r", encoding="utf-8") as json_file:  
         json_data = json.load(json_file)  
 
     # Loop through articles and generate summaries  
@@ -84,7 +84,7 @@ if st.button("Generate Summaries", type="primary") :
 
 
     # Load JSON data from file
-    json_path = "TechCrunch.json"
+    json_path = "output/TechCrunch.json"
     with open(json_path, "r", encoding="utf-8") as json_file:
         json_data = json.load(json_file)
 
