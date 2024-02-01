@@ -1,7 +1,7 @@
 from github import Github
 import streamlit as st
 
-ACCESS_TOKEN = "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"
+ACCESS_TOKEN = "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"
 GITHUB_REPO = "data"
 GIT_BRANCH = "main"
 INTERNAL_FILE = "TechCrunch.json"
