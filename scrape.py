@@ -1,19 +1,17 @@
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
-import streamlit as st
 import re
 import json
 import time
-from nav import switch_page
 
-date_input = st.text_input("Enter date (YYYY-MM-DD): ")
+date_input = input("Enter date (YYYY-MM-DD): ")
 
 if date_input:
     try:
         target_date = datetime.strptime(date_input, "%Y-%m-%d").date()
     except ValueError:
-        st.info("Invalid date format. Please use YYYY-MM-DD.")
+        print("Invalid date format. Please use YYYY-MM-DD.")
 
     # Config
     BASE_URL = "https://techcrunch.com/category/"
@@ -37,7 +35,7 @@ if date_input:
             soup = BeautifulSoup(resp.text, 'lxml')
             return [(a['href'], category) for a in soup.select('h2 a')]
         except Exception as e:
-            st.error(f"Error scraping {category_url}: {e}")
+            print(f"Error scraping {category_url}: {e}")
             return []
     
     def get_links_for_date(target_date):
@@ -65,7 +63,7 @@ if date_input:
             "link": link,
         }
     
-    st.info("Fetching articles...")
+    print("Fetching articles...")
     
     start_time = time.time()
     links = get_links_for_date(target_date)
@@ -91,15 +89,10 @@ if date_input:
         }, json_file, ensure_ascii=False, indent=4)
     
     time = "Time taken to scrape: " + str(time) + "seconds"
-    st.success(f"{len(articles)} articles scraped successfully!")
-    st.success(time)
+    print(f"{len(articles)} articles scraped successfully!")
+    print(time)
     msg = "Content saved to:" + output_file
-    st.info(msg)
+    print(msg)
 
 else:
-    st.markdown("Please enter a valid date to start scraping.")
-
-st.divider()
-
-if st.button("Generate Summary", type="primary") :
-    switch_page("generate")
+    print("Please enter a valid date to start scraping.")
